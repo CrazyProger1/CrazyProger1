@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on pet projects
-- 🌱 I’m currently learning Python, C++ and Kotlin
+- 🌱 I’m currently learning Python and JS
 - 📫 How to reach me: 
 <a href="https://t.me/crazyproger1"><img src= "https://img.shields.io/badge/-telegram-red?color=white&logo=Telegram&logoColor=blue"/></a> 
 <a href="https://www.linkedin.com/in/nikolay-hetman-366933221/"><img src= "https://img.shields.io/badge/-linkedin-red?color=white&logo=LinkedIn&logoColor=blue"/></a>
