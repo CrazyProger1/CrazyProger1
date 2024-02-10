@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <a href="https://t.me/crazyproger1"><img src= "https://img.shields.io/badge/-telegram-red?color=white&logo=Telegram&logoColor=blue"/></a> 
 <a href="https://www.linkedin.com/in/nikolay-hetman-366933221/"><img src= "https://img.shields.io/badge/-linkedin-red?color=white&logo=LinkedIn&logoColor=blue"/></a>
 
+<img src="./github-user-contribution.svg">
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
