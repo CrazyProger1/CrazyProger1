@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on pet projects
+- 🔭 I’m currently working at dZENcode
 - 🌱 I’m currently learning Python and JS
 - 📫 How to reach me: 
 <a href="https://t.me/crazyproger1"><img src= "https://img.shields.io/badge/-telegram-red?color=white&logo=Telegram&logoColor=blue"/></a> 
