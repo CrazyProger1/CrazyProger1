@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on pet projects
+- 🔭 I’m currently working at dZENcode
 - 🌱 I’m currently learning Python, C++ and Kotlin
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
