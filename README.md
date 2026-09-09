@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at [DevelopsToday](https://jobs.develops.today/)
-- 🌱 I’m currently learning Python and TS
 - 📫 How to reach me: 
 <a href="https://t.me/crazyproger1"><img src= "https://img.shields.io/badge/-telegram-red?color=white&logo=Telegram&logoColor=blue"/></a> 
 <a href="https://www.linkedin.com/in/crazyproger1/"><img src= "https://img.shields.io/badge/-linkedin-red?color=white&logo=LinkedIn&logoColor=blue"/></a>
